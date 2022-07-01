@@ -11,3 +11,6 @@ console.log(key,person[key] );
 const colors = ['white', 'black ', 'red','blue'];
  for (let color of colors)
  console.log(color);
+  
+
+//  It is practice 
